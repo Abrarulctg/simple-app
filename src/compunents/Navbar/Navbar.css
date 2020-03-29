@@ -1,0 +1,32 @@
+.navbar{
+    text-align: center;
+}
+.nav{
+    color:#002366
+}
+.nav-img{
+    height:80px;
+    float:left;
+    padding-left:50px;
+
+}
+.manu{
+    line-height: 40px;
+    background-color: #002366;
+    margin-top:30px;
+}
+.manu a{
+    color:white;
+    padding: 6px 40px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 700;
+}
+.manu a:hover{
+    background-color:white;
+    color:#002366;
+    padding-left:40px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 700;
+}
